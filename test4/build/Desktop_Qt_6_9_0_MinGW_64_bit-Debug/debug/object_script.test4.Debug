@@ -1,0 +1,16 @@
+debug/Booking.o
+debug/Coach.o
+debug/GymClass.o
+debug/Manager.o
+debug/Member.o
+debug/PadelCourt.o
+debug/PadelSystem.o
+debug/Receptionist.o
+debug/Staff.o
+debug/SubscribtionManagment.o
+debug/Workout.o
+debug/WorkoutHistory.o
+debug/main.o
+debug/mainwindow.o
+debug/qrc_bgi.o
+debug/moc_mainwindow.o

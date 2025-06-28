@@ -1,0 +1,16 @@
+release/Booking.o
+release/Coach.o
+release/GymClass.o
+release/Manager.o
+release/Member.o
+release/PadelCourt.o
+release/PadelSystem.o
+release/Receptionist.o
+release/Staff.o
+release/SubscribtionManagment.o
+release/Workout.o
+release/WorkoutHistory.o
+release/main.o
+release/mainwindow.o
+release/qrc_bgi.o
+release/moc_mainwindow.o
