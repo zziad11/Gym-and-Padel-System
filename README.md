@@ -79,7 +79,7 @@ Before running the application, make sure the following software is installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/gym-padel-management-system.git
+git clone https://github.com/zziad11/gym-padel-management-system.git
 cd gym-padel-management-system
 ```
 
@@ -168,5 +168,3 @@ This project demonstrates:
 
 **[Ziad Mohamed]**
 
-* LinkedIn: https://linkedin.com/in/your-profile
-* GitHub: https://github.com/your-username
